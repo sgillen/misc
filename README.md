@@ -1,1 +1,1 @@
-Miscellaneous python notebooks. Mostly problems solved for fun or practice, or me playing around with some feature of the python language. 
+Miscellaneous code, mostly python notebooks.
